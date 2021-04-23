@@ -12,6 +12,7 @@
 	<properties>
 		<java.version>8</java.version>
 		<vaadin.version>14.5.3</vaadin.version>
+		<full-artifact-name>target/${project.artifactId}-${project.version}.jar</full-artifact-name>
 	</properties>
 
 	<parent>
